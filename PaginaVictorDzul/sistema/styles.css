@@ -1,0 +1,108 @@
+*{
+    font-family: verdana,sans-serif;
+    font-size: 14pt;
+}
+body{
+    background: rgb(0, 0, 0);
+    text-align: center;
+    overflow-x: hidden;
+}
+.username {
+    text-align: center;
+    background: #092d78;
+    color: white;
+    font-family: helvetica;
+    font-size: 20pt;
+    padding: 4px;
+}
+.info {
+    font-style: italic;
+    margin: 40px 0px;
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+
+.subhead{
+    font-weight: bold;
+}
+.taken, .error {
+    color:red;
+}
+
+.available {
+    color: green;
+}
+
+.whisper {
+    font-style: italic;
+    color: #006600;
+}
+
+#logo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 97px;
+    color: rgb(209, 0, 0);
+    position: relative;
+}
+#used {
+    margin-top: 50px;
+}
+#centro{
+    text-align: center;
+}
+.tamaño{
+    height: 700px;
+    width: 1500px;
+
+}
+.imglogo{
+    height: 100px;
+    width: 100px;
+    border-color: #f8f8f8;
+}
+.registrar{
+    border-style: solid;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-bottom: 1%;
+    background-color: beige;
+}
+.llenado{
+    border-color: grey;
+    border-style: solid;
+    -moz-box-shadow: 2px 2px 2px #888;
+    box-shadow: 2px 2px 2px #888;
+    border-radius: 5px;
+}
+.pie{
+    background-color: gray;
+    
+}
+.cartas{
+    float: left;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+.titulos{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.imgcarta{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}
+.contactos{
+    width: 100px;
+    height: 100px;
+    color: white;
+}
+.carrito{
+    width: 25px;
+    height: 25px;
+}

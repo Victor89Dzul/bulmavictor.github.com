@@ -1,0 +1,27 @@
+{
+  "name": "cletas",
+  "version": "1.0.0",
+  "description": "Servicio de Bicletas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor89Dzul/ServicioBicleta.github.io.git"
+  },
+  "keywords": [
+    "Tienda",
+    "de",
+    "Bicletas"
+  ],
+  "author": "Victor victoredair@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor89Dzul/ServicioBicleta.github.io/issues"
+  },
+  "homepage": "https://github.com/Victor89Dzul/ServicioBicleta.github.io#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
